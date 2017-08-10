@@ -14,5 +14,5 @@ for (iiii in c(1:5)*2)
   
 }
 
-print("수정")
-
+print("수정")print("수정")print("수정")print("수정")
+print("수정")print("수정")print("수정")print("수정")
